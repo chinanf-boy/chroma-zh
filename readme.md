@@ -31,7 +31,7 @@
 
 <!-- doc-templite END generated -->
 
-- [ ] [加个chroma的使用例子，==]
+- [x] [chroma的使用例子](http://llever.com/2018/11/01/golang-chroma-%E4%BD%BF%E7%94%A8%E4%BE%8B%E5%AD%90/)
 
 ### 贡献
 
