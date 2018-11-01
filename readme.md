@@ -31,6 +31,8 @@
 
 <!-- doc-templite END generated -->
 
+- [ ] [加个chroma的使用例子，==]
+
 ### 贡献
 
 欢迎 👏 勘误/校对/更新贡献 😊 [具体贡献请看](https://github.com/chinanf-boy/chinese-translate-list#贡献)
